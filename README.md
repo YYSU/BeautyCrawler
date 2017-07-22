@@ -17,4 +17,4 @@ type in terminal:
 ```bash
 python beauty.py `link`
 ```       
-then all images on that page will be downloaded in images folders
+then all images on that page will be downloaded in `/images` folders
