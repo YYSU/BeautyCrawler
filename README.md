@@ -2,6 +2,7 @@
 
 ## Beauty 版 Crawler
 BeautyCrawler is a Crawler to download the images of PTT Beauty(or any other board).
+
 (This program is written in python.)
 
 ## Prerequisite
@@ -11,7 +12,8 @@ BeautyCrawler is a Crawler to download the images of PTT Beauty(or any other boa
 ## How to use ?
 Open your terminal and type :
 ```bash
-git clone https://github.com/YYSU/BeautyCrawler & cd BeautyCrawler
+git clone https://github.com/YYSU/BeautyCrawler
+cd BeautyCrawler
 ```
 then copy any one of article's url in PTT Beauty
 type in terminal:
