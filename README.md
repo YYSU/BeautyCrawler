@@ -15,9 +15,9 @@ Open your terminal and type :
 git clone https://github.com/YYSU/BeautyCrawler
 cd BeautyCrawler
 ```
-then copy any one of article's url in PTT Beauty
+Then copy any one of article's url in PTT Beauty
 type in terminal:
 ```bash
 python beauty.py `link`
 ```       
-then all images on that page will be downloaded in `/images` folders
+All images on that page will be downloaded in `/images` folders
