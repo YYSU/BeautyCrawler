@@ -1,7 +1,8 @@
 # PTT - Beauty 版 Crawler
 
 ## Beauty 版 Crawler
-BeautyCrawler is a Crawler to download the images of PTT Beauty(Python).
+BeautyCrawler is a Crawler to download the images of PTT Beauty(or any other board).
+(This program is written in python.)
 
 ## Prerequisite
 - Python
